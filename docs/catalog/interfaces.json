@@ -27,11 +27,15 @@
     "lib/funding-audit.json",
     "D1 opportunity_audits",
     "D1 opportunity_scans",
-    "D1 discovered_opportunities"
+    "D1 discovered_opportunities",
+    "lib/sponsor-content.json (public sponsor facts)",
+    "D1 audit eligibilityAssessment (private screening)"
   ],
   "compatibilityBoundaries": [
     "No automated applications/outcomes",
-    "Audit writes never contain applicant answers"
+    "Audit writes never contain applicant answers",
+    "Legacy catalog eligibility booleans are ignored and stripped",
+    "Missing eligibility criteria remain unverified"
   ],
   "verificationContracts": [
     "npm test",

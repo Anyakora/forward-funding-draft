@@ -7,7 +7,8 @@
         "9b9d3aeaad15e7ce982a01d80dec558ca9bfbd28",
         "9ec717fa377242ce9ecde4298eb28ff146f95cd5",
         "cee1567559fe69dfc7276a7fc3b987e8912be9b0",
-        "93ec588ab693b5633f2cdfe24735e9eb4c0dcf99"
+        "93ec588ab693b5633f2cdfe24735e9eb4c0dcf99",
+        "f6e7324ee063cb3d2eb36b620f6a706a33643905"
       ]
     },
     {
@@ -18,6 +19,16 @@
         "Daily research heartbeat"
       ],
       "status": "Unreleased until validation/deployment"
+    },
+    {
+      "name": "Degree-aware sponsor prerequisites",
+      "status": "Unreleased",
+      "changes": [
+        "Public sponsor content summaries",
+        "Private applicant screening",
+        "Legacy flag removal",
+        "Default relevance and calendar filters"
+      ]
     }
   ]
 }

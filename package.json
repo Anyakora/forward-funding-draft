@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 5176",
     "build": "vite build",
-    "test": "node lib/rules.test.mjs && node lib/calendar.test.mjs && node worker/auth.test.mjs && node lib/forms.test.mjs && node lib/audit.test.mjs && node lib/source-monitor.test.mjs",
+    "test": "node lib/rules.test.mjs && node lib/calendar.test.mjs && node worker/auth.test.mjs && node lib/forms.test.mjs && node lib/audit.test.mjs && node lib/source-monitor.test.mjs && node lib/eligibility.test.mjs",
     "deploy": "wrangler deploy",
     "docs:build": "node scripts/build-docs.mjs",
     "docs:check": "node scripts/check-docs.mjs",

@@ -210,5 +210,49 @@
       "docs/architecture/INTERFACE-CONTRACTS.md"
     ],
     "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+  },
+  {
+    "id": "FUND-ELIGIBILITY",
+    "source": "lib/eligibility.mjs",
+    "symbol": "assessmentFor",
+    "owner": "SayScholar application maintainer",
+    "subsystem": "eligibility",
+    "kind": "component",
+    "status": "implemented",
+    "intent": "Replace legacy match flags with evidence-backed degree/admission/enrollment/business stage screening",
+    "dependencies": [
+      "Private D1 eligibilityAssessment",
+      "lib/sponsor-content.json",
+      "src/eligibility-details.tsx"
+    ],
+    "states": [
+      "Potential now",
+      "After admission",
+      "After enrollment",
+      "After business launch",
+      "Ineligible",
+      "Needs verification"
+    ],
+    "risk": "medium",
+    "allowedChanges": [
+      "schema",
+      "evidence",
+      "UI"
+    ],
+    "automatedChecks": [
+      "lib/eligibility.test.mjs",
+      "lib/audit.test.mjs",
+      "worker/integration.test.mjs"
+    ],
+    "manualStates": [
+      "default filtered opportunity list",
+      "ineligible source requirements",
+      "graduate future gates",
+      "calendar stages"
+    ],
+    "rollback": "Previous Worker version; preserve D1 assessments and all application records",
+    "references": [
+      "docs/architecture/INTERFACE-CONTRACTS.md"
+    ]
   }
 ]

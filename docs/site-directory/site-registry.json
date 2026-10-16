@@ -31,6 +31,12 @@
       "label": "Automated Gmail response ingestion",
       "status": "missing",
       "owner": "SayScholar application maintainer"
+    },
+    {
+      "id": "FUND-ELIGIBILITY",
+      "label": "Degree-aware eligibility screening",
+      "status": "implemented",
+      "owner": "SayScholar application maintainer"
     }
   ],
   "scenes": [],

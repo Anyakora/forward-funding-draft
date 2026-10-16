@@ -5,6 +5,7 @@
     "FUND-AUDIT-API",
     "FUND-AUDIT-SCHEMA",
     "FUND-AUDIT-VIEW",
+    "FUND-ELIGIBILITY",
     "FUND-EMAIL-INGEST",
     "FUND-PASSIVE-SCAN"
   ],
@@ -17,6 +18,9 @@
     ],
     "FUND-AUDIT-VIEW": [
       "src/audit-center.tsx"
+    ],
+    "FUND-ELIGIBILITY": [
+      "lib/eligibility.mjs"
     ],
     "FUND-PASSIVE-SCAN": [
       "worker/scanner.ts"
