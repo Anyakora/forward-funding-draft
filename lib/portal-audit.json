@@ -1,0 +1,4313 @@
+[
+  {
+    "id": "S094",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/zombie-apocalypse-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional. Sponsor page amount conflicts: headline $2,000, official rules $1,500; confirm before relying on award value.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/zombie-apocalypse-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/zombie-apocalypse-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S095",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/education-matters-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/education-matters-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/education-matters-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S096",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/top-ten-list-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/top-ten-list-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/top-ten-list-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S097",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/unigo-10k-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/unigo-10k-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/unigo-10k-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S099",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/sweet-and-simple-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/sweet-and-simple-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/sweet-and-simple-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S100",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S101",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/all-about-education-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/all-about-education-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/all-about-education-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S102",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/fifth-month-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/fifth-month-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/fifth-month-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S103",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/do-over-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/do-over-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/do-over-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S104",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/flavor-of-the-month-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/flavor-of-the-month-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/flavor-of-the-month-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S105",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/make-me-laugh-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/make-me-laugh-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/make-me-laugh-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S106",
+    "applicationUrl": "https://www.unigo.com/scholarships/our-scholarships/shout-it-out-scholarship/application",
+    "signupUrl": "https://www.unigo.com/new-login?__page=login",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Official Apply Now link verified. Redirects to Unigo sign-in. Scholarship application fields are not verified behind login; signup form is separate. GPA signup field is explicitly optional.",
+    "evidenceUrls": [
+      "https://www.unigo.com/scholarships/our-scholarships/shout-it-out-scholarship",
+      "https://www.unigo.com/scholarships/our-scholarships/shout-it-out-scholarship/application"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "My Education Level",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "My Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA (optional)",
+        "type": "number",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.unigo.com/new-login?__page=login",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S108",
+    "applicationUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mobile Phone",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Confirm Email Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Street Address 1",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Street Address 2",
+        "type": "text",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Parent/Legal Guardian or Student",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Current student status",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Expected high school graduation date",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Expected college graduation year",
+        "type": "number",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "College enrolled or considering",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Age 18 / Official Rules / Privacy Policy certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor scholarship page links to this actual entry form. Asterisks explicitly define required fields. Graduation questions may be conditional on student status; verify in form. No account signup needed.",
+    "evidenceUrls": [
+      "https://www.citizensbank.com/student-loans/scholarship-rules.aspx",
+      "https://www.citizensbank.com/student-loans/scholarship.aspx",
+      "https://citizensscholarshipsweeps2022.dja.com/?src=CitizensBank"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S146",
+    "applicationUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State of Residence",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "College Attending or Planning to Attend \u2014 up to eight",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "How did you hear about our scholarship? If online, please tell us which website listed us.",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Short Answer \u2014 250 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Original work / accurate information / terms and privacy certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/gk_app_materialize.cfm",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Official Apply page embeds this actual GrantPower form. Individual required flags from HTML attributes unless short answer requirement is stated in form instructions. Mandatory fields otherwise unknown; newsletter form not included.",
+    "evidenceUrls": [
+      "https://www.genkellyscholarship.com/scholarship-details",
+      "https://www.grantpower.com/gk_app_materialize.cfm",
+      "https://www.genkellyscholarship.com/apply"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S158",
+    "applicationUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+    "signupUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Exact official scholarship page includes Create a Niche account to apply. Signup labels verified but later scholarship entry fields remain unverified. No account created.",
+    "evidenceUrls": [
+      "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/scholarship-rules/",
+      "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "First",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Where are you currently studying?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S159",
+    "applicationUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+    "signupUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Exact official scholarship page includes Create a Niche account to apply. Signup labels verified but later scholarship entry fields remain unverified. No account created.",
+    "evidenceUrls": [
+      "https://www.niche.com/colleges/scholarships/no-essay-scholarship/scholarship-rules/",
+      "https://www.niche.com/colleges/scholarships/no-essay-scholarship/"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15",
+    "signupFields": [
+      {
+        "label": "First",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Birthdate",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Password",
+        "type": "password",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Where are you currently studying?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+        "verifiedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "S160",
+    "applicationUrl": "https://www.niche.com/colleges/survey/",
+    "signupUrl": null,
+    "status": "Public survey starting step \u2014 later fields not yet visible",
+    "fields": [
+      {
+        "label": "Search for a college or university",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.niche.com/colleges/survey/",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Official Niche Review Your College starting page verified. College search is visible; full review and scholarship entry steps are not yet verified. Original rules source retained.",
+    "evidenceUrls": [
+      "https://www.niche.com/about/scholarship-rules/college-survey-scholarship/",
+      "https://www.niche.com/colleges/survey/"
+    ],
+    "accountNeeded": "Unknown \u2014 later steps not inspected",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S176",
+    "applicationUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Postal Code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Country",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Age",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Type",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Current or Planned Area of Study or Career Interest",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Short Essay \u2014 400 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.moolahspot.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public application on sponsor page; no account required. Individual required flags not established. Optional military-funding marketing checkbox excluded from template.",
+    "evidenceUrls": [
+      "https://www.moolahspot.com/scholarship/index.cfm"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S177",
+    "applicationUrl": "https://www.supercollege.com/scholarship/index.cfm",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Type",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range (If known)",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "College attending or colleges of interest \u2014 up to six",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your primary career goal for going to school?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your current or intended major / field of study?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What type of degree will you earn?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "I agree to the scholarship terms & conditions",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.supercollege.com/scholarship/index.cfm",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public application accessible without account. College chooser is dynamic. Optional military-funding checkbox excluded. Required flags otherwise unknown.",
+    "evidenceUrls": [
+      "https://www.supercollege.com/scholarship/index.cfm"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S224",
+    "applicationUrl": "https://www.return2college.com/awardprogram.cfm",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-Mail",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What type of degree will you earn?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Would you study online?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Primary career goal for going to school?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Why are you getting your degree? \u2014 three sentences or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.return2college.com/awardprogram.cfm",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Actual public application; no account required; individual mandatory flags not established.",
+    "evidenceUrls": [
+      "https://www.return2college.com/awardprogram.cfm"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S253",
+    "applicationUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone",
+        "type": "tel",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address line 1",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address line 2",
+        "type": "text",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Upload your essay \u2014 up to 500 words",
+        "type": "file",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://energyrates.ca/energyrates-ca-scholarship/",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Direct HTTP encountered 403 but official page successfully inspected through web tool. Scholarship Submission form fields verified. Mandatory asterisks shown. Sponsor instructions list DOC/DOCX/RTF/PDF, form additionally allows TXT; maximum file size 5 MB. Company honeypot and newsletter subscription excluded.",
+    "evidenceUrls": [
+      "https://energyrates.ca/energyrates-ca-scholarship/"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S254",
+    "applicationUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State of Residence",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-Mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA, If Known",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "General Educational Goals",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Colleges \u2014 up to four",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Personal Statement \u2014 250 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=love",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application. Public form fields verified. Required flags unknown unless explicitly specified; do not infer from absence of HTML required attribute.",
+    "evidenceUrls": [
+      "https://www.jumpstart-scholarship.net/application-love-of-learning-scholarship",
+      "https://www.grantpower.com/jumpstart_app.cfm?award=love"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S270",
+    "applicationUrl": "https://www.collegeispower.com/scholarship.cfm",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Student Type",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range (If known)",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad / GED Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your primary career goal for going to school?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Degree type interested in earning?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Would you study online?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What is your primary goal for going to school? \u2014 150 words or fewer",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.collegeispower.com/scholarship.cfm",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Actual public application; no account required; phone is HTML required, other mandatory flags not established.",
+    "evidenceUrls": [
+      "https://www.collegeispower.com/scholarship.cfm"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S274",
+    "applicationUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Postal Code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Name of high school or college you attend or plan to attend",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "At the time of application you are a",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Short Essay \u2014 one paragraph",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=media",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application; no registration visible. HTML does not reliably mark individual required fields.",
+    "evidenceUrls": [
+      "https://www.endcyberbullying.net/scholarship-social-media",
+      "https://www.grantpower.com/cyberbully_app.cfm?id=media"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S275",
+    "applicationUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Postal Code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Name of high school or college you attend or plan to attend",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "At the time of application you are a",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Short Essay \u2014 one paragraph",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=awareness",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application; no registration visible. HTML does not reliably mark individual required fields.",
+    "evidenceUrls": [
+      "https://www.endcyberbullying.net/scholarship-mental-health",
+      "https://www.grantpower.com/cyberbully_app.cfm?id=awareness"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S276",
+    "applicationUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Postal Code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Name of high school or college you attend or plan to attend",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "At the time of application you are a",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Short Essay \u2014 one paragraph",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/cyberbully_app.cfm?id=walls",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application; no registration visible. HTML does not reliably mark individual required fields.",
+    "evidenceUrls": [
+      "https://www.endcyberbullying.net/scholarship-beyond-school-walls",
+      "https://www.grantpower.com/cyberbully_app.cfm?id=walls"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S295",
+    "applicationUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State of Residence",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-Mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA, If Known",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "General Educational Goals",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Colleges \u2014 up to four",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Personal Statement \u2014 250 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=grit",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application. Public form fields verified. Required flags unknown unless explicitly specified; do not infer from absence of HTML required attribute.",
+    "evidenceUrls": [
+      "https://www.jumpstart-scholarship.net/application-show-grit-scholarship",
+      "https://www.grantpower.com/jumpstart_app.cfm?award=grit"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S296",
+    "applicationUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State of Residence",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-Mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA, If Known",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "General Educational Goals",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Colleges \u2014 up to four",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Personal Statement \u2014 250 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application. Public form fields verified. Required flags unknown unless explicitly specified; do not infer from absence of HTML required attribute.",
+    "evidenceUrls": [
+      "https://www.jumpstart-scholarship.net/application-gratitude-scholarship",
+      "https://www.grantpower.com/jumpstart_app.cfm?award=gratitude"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S297",
+    "applicationUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State of Residence",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip code",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-Mail Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Student Status",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Grad Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA, If Known",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your Birthday",
+        "type": "date",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "General Educational Goals",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Colleges \u2014 up to four",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Personal Statement \u2014 250 words or less",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/jumpstart_app.cfm?award=pay",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Sponsor embeds this exact GrantPower application. Public form fields verified. Required flags unknown unless explicitly specified; do not infer from absence of HTML required attribute.",
+    "evidenceUrls": [
+      "https://www.jumpstart-scholarship.net/application-pay-it-forward-scholarship",
+      "https://www.grantpower.com/jumpstart_app.cfm?award=pay"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S298",
+    "applicationUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Who Are You?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your current or intented major / field of study?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Type here \u2014 scholarship response",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Original work / truth / terms certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public embedded application inspected. True required flags come from HTML required attribute. Remaining flags unknown. Confirm scholarship response prompt and limits in portal.",
+    "evidenceUrls": [
+      "https://www.digitalresponsibility.org/technology-addiction-awareness-scholarship",
+      "https://www.grantpower.com/digital_app_materialize.cfm?id=unplug"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S299",
+    "applicationUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Who Are You?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your current or intented major / field of study?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Type here \u2014 scholarship response",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Original work / truth / terms certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public embedded application inspected. True required flags come from HTML required attribute. Remaining flags unknown. Confirm scholarship response prompt and limits in portal.",
+    "evidenceUrls": [
+      "https://www.digitalresponsibility.org/ewaste-scholarship",
+      "https://www.grantpower.com/digital_app_materialize.cfm?id=ewaste"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S300",
+    "applicationUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Who Are You?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your current or intented major / field of study?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Type here \u2014 scholarship response",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Original work / truth / terms certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public embedded application inspected. True required flags come from HTML required attribute. Remaining flags unknown. Confirm scholarship response prompt and limits in portal.",
+    "evidenceUrls": [
+      "https://www.digitalresponsibility.org/digital-privacy-scholarship",
+      "https://www.grantpower.com/digital_app_materialize.cfm?id=privacy"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S301",
+    "applicationUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Who Are You?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Mailing Address",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zipcode",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "E-mail Address",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "High School Graduation Year",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "GPA Range",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "What best describes your current or intented major / field of study?",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Type here \u2014 scholarship response",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Original work / truth / terms certification",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.grantpower.com/digital_app_materialize.cfm?id=txt",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public embedded application inspected. True required flags come from HTML required attribute. Remaining flags unknown. Confirm scholarship response prompt and limits in portal.",
+    "evidenceUrls": [
+      "https://www.digitalresponsibility.org/dont-text-and-drive-scholarship",
+      "https://www.grantpower.com/digital_app_materialize.cfm?id=txt"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S329",
+    "applicationUrl": "https://textprep.org/scholarship",
+    "signupUrl": null,
+    "status": "Age gate \u2014 later fields not yet visible",
+    "fields": [
+      {
+        "label": "Date of birth",
+        "type": "date",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://textprep.org/scholarship#enter",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Only date-of-birth gate publicly visible. Do not invent later fields or provide a guessed full birthday. Scholarship requires original study tip of up to 280 characters but submission input not yet verified.",
+    "evidenceUrls": [
+      "https://textprep.org/scholarship/rules",
+      "https://textprep.org/scholarship"
+    ],
+    "accountNeeded": "Unknown \u2014 age-gated",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S349",
+    "applicationUrl": "https://my.appily.com/register/core/scholarship1",
+    "signupUrl": "https://my.appily.com/register/core/scholarship1",
+    "status": "Account required \u2014 JavaScript registration",
+    "fields": [],
+    "notes": "Official Easy Money page links to this route. JavaScript-only signup, no application fields verified. Terms page is not application.",
+    "evidenceUrls": [
+      "https://www.appily.com/scholarship-terms",
+      "https://my.appily.com/register/core/scholarship1",
+      "https://www.appily.com/scholarships/easy-money-scholarship"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "S404",
+    "applicationUrl": "https://www.collegexpress.com/reg/offer/october26?next_url=https:%2F%2Fwww.collegexpress.com%2Freg%2Fschools%2Flong",
+    "signupUrl": "https://www.collegexpress.com/reg/signup",
+    "status": "Account required \u2014 application fields not yet visible",
+    "fields": [],
+    "notes": "Apply Online link on exact scholarship points to this offer route. Do not substitute unrelated sweepstakes. Fields pending registration inspection. Application route redirects to /reg/login; email and password login fields verified, application questions behind account remain unverified.",
+    "evidenceUrls": [
+      "https://www.collegexpress.com/scholarships/collegexpress-october-sweepstakes/2039157/",
+      "https://www.collegexpress.com/reg/offer/october26?next_url=https:%2F%2Fwww.collegexpress.com%2Freg%2Fschools%2Flong"
+    ],
+    "accountNeeded": "Required",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "B007",
+    "applicationUrl": "https://galaxyofstars.org/galaxy-grants/",
+    "signupUrl": "https://galaxyofstars.org/galaxy-grants/",
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Gender",
+        "type": "radio",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Ethnicity",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Business Status",
+        "type": "select",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Referred By",
+        "type": "text",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Grant Entry Terms & Conditions",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://galaxyofstars.org/galaxy-grants/",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public grant form verified. Submission also creates a free Galaxy account per entry statement. Account password area is conditional and intentionally not included in application-answer storage. Do not submit merely to create an account.",
+    "evidenceUrls": [
+      "https://galaxyofstars.org/galaxy-grants/"
+    ],
+    "accountNeeded": "Grant submission creates a free account",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "B018",
+    "applicationUrl": "https://mercatus.tfaforms.net/5099527",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Affected Region",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Dedicated Funding Areas",
+        "type": "select",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Initial",
+        "type": "text",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Suffix",
+        "type": "text",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Email Type",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Phone Type",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Twitter (if applicable)",
+        "type": "url",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Country",
+        "type": "select",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "State/Province",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "How do you describe your idea in a tweet?",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Tell us about your proposal \u2014 maximum 1500 words",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Estimated Budget",
+        "type": "number",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Breakdown of Expenses",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Supporting documentation \u2014 no PDFs",
+        "type": "file",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Multimedia URL",
+        "type": "url",
+        "required": false,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "I certify that I am 13 years of age or older",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Grant purpose consent",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Personal information processing consent",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://mercatus.tfaforms.net/5099527",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Public FormAssembly application inspected, including required-field class markers; flags otherwise unknown. Sponsor explicitly rejects AI-written applications except proofreading. Do not create an AI-written proposal. CAPTCHA before submit.",
+    "evidenceUrls": [
+      "https://mercatus.tfaforms.net/5099527"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "B034",
+    "applicationUrl": "https://www.goskills.com/scholarship#scholarship-form",
+    "signupUrl": null,
+    "status": "Verified public application",
+    "fields": [
+      {
+        "label": "Your name",
+        "type": "text",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Contact email",
+        "type": "email",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your phone number",
+        "type": "tel",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Your school",
+        "type": "text",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Social link",
+        "type": "url",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Tell us about yourself. (2\u20133 sentences)",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Tell us the challenges you\u2019ve faced in starting your own business. What\u2019s holding you back?",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Who\u2019s your female boss role model and why?",
+        "type": "textarea",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Anything you\u2019d like to add?",
+        "type": "textarea",
+        "required": null,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "Business plan link",
+        "type": "url",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      },
+      {
+        "label": "I certify that my idea is original",
+        "type": "checkbox",
+        "required": true,
+        "source": "Verified portal",
+        "sourceUrl": "https://www.goskills.com/scholarship#scholarship-form",
+        "verifiedAt": "2026-10-15"
+      }
+    ],
+    "notes": "Actual multistep application in page, no account needed. Fields and required flags inspected from sponsor HTML. CAPTCHA required. Official Apply Now anchor verified.",
+    "evidenceUrls": [
+      "https://www.goskills.com/scholarship",
+      "https://www.goskills.com/scholarship#apply",
+      "https://www.goskills.com/scholarship#scholarship-form"
+    ],
+    "accountNeeded": "Not required for visible application",
+    "verifiedAt": "2026-10-15"
+  },
+  {
+    "id": "B039",
+    "applicationUrl": null,
+    "signupUrl": null,
+    "status": "Dynamic application \u2014 fields not yet visible",
+    "fields": [],
+    "notes": "Official funding detail displays Start Applying action, but no navigable application URL exposed in static HTML. Do not invent signup route or questions.",
+    "evidenceUrls": [
+      "https://helloskip.com/funding-details/10k-grants-fall-2026?source=grants-for-entrepreneurs"
+    ],
+    "accountNeeded": "Unknown \u2014 requires browser inspection",
+    "verifiedAt": "2026-10-15"
+  }
+]

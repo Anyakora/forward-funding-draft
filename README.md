@@ -34,3 +34,9 @@ No public self-registration or Google OAuth has been enabled. Login credentials 
 ## Operational notes
 
 Export shared backups from Workspace. Cloudflare D1 state is separate from GitHub source and the previous Sites deployment. Keep an export before future migrations. Account recovery/password changes require an authorized deployment operator; no email reset sender is configured. TLS/DNS propagation may temporarily differ by resolver after first domain activation.
+
+## Application inputs and portal audit (October 15, 2026)
+
+Application records support exact prompt/answer fields, source evidence, confirmation IDs, and dated submission copies. First transition to Submitted or explicit archive request creates a server-side copy; later edits preserve prior copies. Custom templates and portal setup records save through version-checked D1 settings. Backup import preserves recorded histories for new records and never overwrites existing shared records. Password and sensitive identifier values are stripped server-side.
+
+All 453 sponsor links received an HTTP reachability check; 40 priority opportunities received a separate application-route audit. The checked-in audits distinguish verified public fields, account-gated applications, and unverified routes. Verified fields are available in the application editor's template selector; starter templates remain explicitly unverified. No external account creation or scholarship submission is implied by a saved dashboard record. The Gmail preference and manual email-review queue do not establish a live Gmail ingestion connection.
