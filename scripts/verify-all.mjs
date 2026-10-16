@@ -1,0 +1,1 @@
+import{execFileSync}from'node:child_process';for(const [cmd,args]of[['npm',['run','docs:build']],['npm',['test']],['npx',['tsc','--noEmit']],['npm',['run','docs:check']],['npm',['run','build']]])execFileSync(cmd,args,{stdio:'inherit'});

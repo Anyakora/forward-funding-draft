@@ -1,0 +1,2 @@
+# Terms
+Endowment: sponsor explicitly documents an endowed fund. Sponsor-funded: annual donations or corporate/government support, not necessarily endowed. Sweepstakes: chance-based promotional award, potentially real but distinct from judged scholarship. Evidence reviewed: source inspected, not a claim of current eligibility. Public form captured: visible form captured, not every conditional path. Discovery: pending review lead excluded from funding totals.

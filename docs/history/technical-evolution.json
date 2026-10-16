@@ -1,0 +1,23 @@
+{
+  "phases": [
+    {
+      "name": "Existing history",
+      "commits": [
+        "d6c05ad44801432b332ff07bea9072a283147260",
+        "9b9d3aeaad15e7ce982a01d80dec558ca9bfbd28",
+        "9ec717fa377242ce9ecde4298eb28ff146f95cd5",
+        "cee1567559fe69dfc7276a7fc3b987e8912be9b0",
+        "93ec588ab693b5633f2cdfe24735e9eb4c0dcf99"
+      ]
+    },
+    {
+      "name": "Full funding audit",
+      "changes": [
+        "Versioned evidence records",
+        "Passive source monitor",
+        "Daily research heartbeat"
+      ],
+      "status": "Unreleased until validation/deployment"
+    }
+  ]
+}

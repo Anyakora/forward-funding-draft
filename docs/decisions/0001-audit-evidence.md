@@ -1,0 +1,2 @@
+# ADR 1: Evidence audits separate from application records
+Accepted. Separate sponsor classification, field labels, source scans and pending discoveries from private submitted answers and funding outcomes. A successful HTTP request does not prove legitimate funding; an award is not necessarily endowed. Only explicit sponsor evidence supports endowment labels. Login-gated and conditional fields stay unresolved. D1 audit overrides are versioned; source changes never automatically change application statuses.

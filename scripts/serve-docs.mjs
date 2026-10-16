@@ -1,0 +1,1 @@
+import http from'node:http';import fs from'node:fs';http.createServer((req,res)=>{if(req.url!=='/'){res.writeHead(404).end();return}res.setHeader('Content-Type','text/html;charset=utf-8');res.end(fs.readFileSync('docs/portal/index.html'))}).listen(8790,'127.0.0.1',()=>console.log('Engineering reference at http://127.0.0.1:8790'));

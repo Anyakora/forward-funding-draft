@@ -1,0 +1,10 @@
+{
+  "assets": [
+    {
+      "path": "lib/funding-audit.json",
+      "provenance": "Primary sponsor evidence collected October15/16 2026; short field labels and findings",
+      "loading": "Worker authenticated audit API",
+      "license": "Sponsor pages retain their rights; do not redistribute raw scraped HTML or private answers"
+    }
+  ]
+}

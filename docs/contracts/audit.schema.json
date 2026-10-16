@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "reviewStatus",
+    "awardType",
+    "fundingBasis",
+    "classificationEvidence",
+    "fields",
+    "formCompleteness"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "fields": {
+      "type": "array"
+    },
+    "classificationEvidence": {
+      "type": "array"
+    }
+  }
+}

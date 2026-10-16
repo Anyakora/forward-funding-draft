@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "systems": [],
+  "components": [
+    {
+      "id": "FUND-AUDIT-SCHEMA",
+      "label": "Evidence validation and classification",
+      "status": "implemented",
+      "owner": "SayScholar application maintainer"
+    },
+    {
+      "id": "FUND-AUDIT-API",
+      "label": "Shared versioned audit/discovery storage",
+      "status": "implemented",
+      "owner": "SayScholar application maintainer"
+    },
+    {
+      "id": "FUND-PASSIVE-SCAN",
+      "label": "Bounded passive source checks",
+      "status": "implemented",
+      "owner": "SayScholar application maintainer"
+    },
+    {
+      "id": "FUND-AUDIT-VIEW",
+      "label": "Evidence, form and monitoring workspace",
+      "status": "implemented",
+      "owner": "SayScholar application maintainer"
+    },
+    {
+      "id": "FUND-EMAIL-INGEST",
+      "label": "Automated Gmail response ingestion",
+      "status": "missing",
+      "owner": "SayScholar application maintainer"
+    }
+  ],
+  "scenes": [],
+  "transitions": [],
+  "interactions": [],
+  "states": []
+}

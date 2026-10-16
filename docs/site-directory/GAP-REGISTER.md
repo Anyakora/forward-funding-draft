@@ -1,0 +1,2 @@
+# Remaining gaps
+Full catalog audit means every record has an attempted evidence review; many sources remain blocked or unverified. Login-only forms, conditional screens, actual application submissions and email ingestion remain incomplete. Portal links open providers but do not implement third-party single sign-on. Daily Codex research depends on the configured app scheduler and valid local Cloudflare authorization; passive public source checks run in Cloudflare independently. Existing legacy screen/state documentation has not been exhaustively inventoried.

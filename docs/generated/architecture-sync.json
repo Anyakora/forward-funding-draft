@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generator": "architecture-sync",
+  "stableIds": [
+    "FUND-AUDIT-API",
+    "FUND-AUDIT-SCHEMA",
+    "FUND-AUDIT-VIEW",
+    "FUND-EMAIL-INGEST",
+    "FUND-PASSIVE-SCAN"
+  ],
+  "markerIndex": {
+    "FUND-AUDIT-API": [
+      "worker/audits.ts"
+    ],
+    "FUND-AUDIT-SCHEMA": [
+      "lib/audit.mjs"
+    ],
+    "FUND-AUDIT-VIEW": [
+      "src/audit-center.tsx"
+    ],
+    "FUND-PASSIVE-SCAN": [
+      "worker/scanner.ts"
+    ]
+  }
+}

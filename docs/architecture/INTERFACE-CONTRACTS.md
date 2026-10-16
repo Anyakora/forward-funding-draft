@@ -1,0 +1,4 @@
+# Interface contracts
+GET /api/audits requires a session and returns merged records, counts, scan state and discovery queue. POST /api/audits requires same-origin session and performs an evidence-validated audit update, discovery insert or exact-timestamp scan acknowledgment. Audit saves use optimistic versions and immutable audit_history. POST /api/scans queues the next 18 fixed catalog sources; it accepts no arbitrary URL. Cron uses the same scanner every 30 minutes. No public machine credential is issued.
+
+New tables are additive in migration 0002. lib/audit.mjs removes all field answers, requires URL/date evidence on verified fields, and distinguishes funding basis from award selection type. /api/workspace remains the owner of application fields and submission copies. /api/catalog owns private enriched research.

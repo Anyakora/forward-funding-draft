@@ -1,0 +1,2 @@
+# Engineering entry point
+The production app is on sayscholar.app, implemented in src/ and worker/. GitHub Pages docs/index.html links to the protected app. Begin with README.md, architecture/SYSTEM-VIEWS.md and architecture/INTERFACE-CONTRACTS.md. Stable audit owners live in catalog/knowledge-source.json; missing product behaviors are listed in site-directory/GAP-REGISTER.md. docs/portal is a local engineering viewer, never part of the app bundle.

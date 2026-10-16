@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "records": {
+    "FUND-AUDIT-SCHEMA": {
+      "source": "lib/audit.mjs",
+      "symbol": "cleanAudit",
+      "owner": "SayScholar application maintainer",
+      "subsystem": "funding-audit",
+      "kind": "component",
+      "status": "implemented",
+      "intent": "Evidence validation and classification",
+      "dependencies": [
+        "D1",
+        "authenticated session"
+      ],
+      "states": [
+        "pending",
+        "available",
+        "blocked",
+        "changed"
+      ],
+      "risk": "medium",
+      "allowedChanges": [
+        "schema",
+        "evidence",
+        "interface",
+        "UI"
+      ],
+      "automatedChecks": [
+        "lib/audit.test.mjs",
+        "worker/integration.test.mjs"
+      ],
+      "manualStates": [
+        "audit search",
+        "expand evidence",
+        "form field inventory",
+        "shared save"
+      ],
+      "rollback": "Previous Worker version; preserve additive D1 tables",
+      "references": [
+        "docs/architecture/INTERFACE-CONTRACTS.md"
+      ],
+      "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+    },
+    "FUND-AUDIT-API": {
+      "source": "worker/audits.ts",
+      "symbol": "getAudits",
+      "owner": "SayScholar application maintainer",
+      "subsystem": "funding-audit",
+      "kind": "component",
+      "status": "implemented",
+      "intent": "Shared versioned audit/discovery storage",
+      "dependencies": [
+        "D1",
+        "authenticated session"
+      ],
+      "states": [
+        "pending",
+        "available",
+        "blocked",
+        "changed"
+      ],
+      "risk": "medium",
+      "allowedChanges": [
+        "schema",
+        "evidence",
+        "interface",
+        "UI"
+      ],
+      "automatedChecks": [
+        "lib/audit.test.mjs",
+        "worker/integration.test.mjs"
+      ],
+      "manualStates": [
+        "audit search",
+        "expand evidence",
+        "form field inventory",
+        "shared save"
+      ],
+      "rollback": "Previous Worker version; preserve additive D1 tables",
+      "references": [
+        "docs/architecture/INTERFACE-CONTRACTS.md"
+      ],
+      "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+    },
+    "FUND-PASSIVE-SCAN": {
+      "source": "worker/scanner.ts",
+      "symbol": "runScan",
+      "owner": "SayScholar application maintainer",
+      "subsystem": "funding-audit",
+      "kind": "component",
+      "status": "implemented",
+      "intent": "Bounded passive source checks",
+      "dependencies": [
+        "D1",
+        "authenticated session",
+        "lib/source-monitor.mjs"
+      ],
+      "states": [
+        "pending",
+        "available",
+        "blocked",
+        "changed"
+      ],
+      "risk": "medium",
+      "allowedChanges": [
+        "schema",
+        "evidence",
+        "interface",
+        "UI"
+      ],
+      "automatedChecks": [
+        "lib/audit.test.mjs",
+        "worker/integration.test.mjs",
+        "lib/source-monitor.test.mjs"
+      ],
+      "manualStates": [
+        "audit search",
+        "expand evidence",
+        "form field inventory",
+        "shared save"
+      ],
+      "rollback": "Previous Worker version; preserve additive D1 tables",
+      "references": [
+        "docs/architecture/INTERFACE-CONTRACTS.md"
+      ],
+      "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+    },
+    "FUND-AUDIT-VIEW": {
+      "source": "src/audit-center.tsx",
+      "symbol": "AuditCenter",
+      "owner": "SayScholar application maintainer",
+      "subsystem": "funding-audit",
+      "kind": "component",
+      "status": "implemented",
+      "intent": "Evidence, form and monitoring workspace",
+      "dependencies": [
+        "D1",
+        "authenticated session"
+      ],
+      "states": [
+        "pending",
+        "available",
+        "blocked",
+        "changed"
+      ],
+      "risk": "medium",
+      "allowedChanges": [
+        "schema",
+        "evidence",
+        "interface",
+        "UI"
+      ],
+      "automatedChecks": [
+        "lib/audit.test.mjs",
+        "worker/integration.test.mjs"
+      ],
+      "manualStates": [
+        "audit search",
+        "expand evidence",
+        "form field inventory",
+        "shared save"
+      ],
+      "rollback": "Previous Worker version; preserve additive D1 tables",
+      "references": [
+        "docs/architecture/INTERFACE-CONTRACTS.md"
+      ],
+      "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+    },
+    "FUND-EMAIL-INGEST": {
+      "source": null,
+      "symbol": null,
+      "owner": "SayScholar application maintainer",
+      "subsystem": "funding-audit",
+      "kind": "component",
+      "status": "missing",
+      "intent": "Automated Gmail response ingestion",
+      "dependencies": [
+        "D1",
+        "authenticated session"
+      ],
+      "states": [
+        "pending",
+        "available",
+        "blocked",
+        "changed"
+      ],
+      "risk": "medium",
+      "allowedChanges": [
+        "schema",
+        "evidence",
+        "interface",
+        "UI"
+      ],
+      "automatedChecks": [
+        "lib/audit.test.mjs",
+        "worker/integration.test.mjs"
+      ],
+      "manualStates": [
+        "audit search",
+        "expand evidence",
+        "form field inventory",
+        "shared save"
+      ],
+      "rollback": "Previous Worker version; preserve additive D1 tables",
+      "references": [
+        "docs/architecture/INTERFACE-CONTRACTS.md"
+      ],
+      "verification": "Implemented source; deployment/manual evidence recorded in release summary"
+    }
+  }
+}

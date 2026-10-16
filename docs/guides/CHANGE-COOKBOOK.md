@@ -1,0 +1,2 @@
+# Change cookbook
+For audit schema changes update lib/audit.mjs, worker/audits.ts, AuditCenter, migrations when needed, interface catalog and tests. For source checks update worker/scanner.ts and scanner integration tests. For new source evidence export current versions, inspect primary sources, retain sources and unknown flags, publish only supported changes and verify export. For deployment preserve ignored research reports, run validation and deploy using the existing Wrangler account.

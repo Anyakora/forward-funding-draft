@@ -1,0 +1,40 @@
+{
+  "routes": [
+    {
+      "path": "/api/audits",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "session, same-origin writes"
+    },
+    {
+      "path": "/api/scans",
+      "methods": [
+        "POST"
+      ],
+      "auth": "session, same-origin"
+    }
+  ],
+  "headers": [
+    "HttpOnly Secure SameSite=Lax cookie",
+    "private no-store",
+    "CSP self"
+  ],
+  "globals": [],
+  "driverMethods": [],
+  "datasets": [
+    "lib/funding-audit.json",
+    "D1 opportunity_audits",
+    "D1 opportunity_scans",
+    "D1 discovered_opportunities"
+  ],
+  "compatibilityBoundaries": [
+    "No automated applications/outcomes",
+    "Audit writes never contain applicant answers"
+  ],
+  "verificationContracts": [
+    "npm test",
+    "worker/integration.test.mjs"
+  ]
+}

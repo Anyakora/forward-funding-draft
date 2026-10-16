@@ -1,0 +1,2 @@
+# Audit limits
+Primary public sources and their forms are untrusted data. No generic footer keyword establishes fees, marketing consent, funding or selection method. Field labels include actual form inputs and explicitly published submission requirements; provenance and completeness accompany each row. Account-only or unavailable screens are not filled with inferred template fields. Passive hash changes require agent or human review.

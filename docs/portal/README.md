@@ -1,0 +1,1 @@
+The engineering viewer is generated locally by npm run docs:build and intentionally ignored by Git. Serve only through npm run docs:serve on127.0.0.1. GitHub Pages retains only its existing launch page; no engineering viewer is committed or shipped with the app.
