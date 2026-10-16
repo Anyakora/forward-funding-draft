@@ -1,6 +1,6 @@
 # Sayscholar — full shared funding dashboard
 
-Canonical app: https://sayscholar.app/ . The application runs in the owner’s Cloudflare account with a D1 database. GitHub Pages links to the secure app; it does not host a second independent copy of the private records.
+Canonical app: https://sayscholar.app/ (also https://www.sayscholar.app/). The application runs in the owner’s Cloudflare account with a D1 database. GitHub Pages links to the secure app; it does not host a second independent copy of the private records.
 
 ## Features
 
